@@ -1,9 +1,10 @@
 @charset "UTF-8";
+<!-- 테이블 선 두개 보이게 하는 방법 -->
 * {
 text-align: center;
 }
 table {
-  margin: 0 auto;
+  margin: 0 auto; <!-- table 가운데 정렬 -->
   border: solid 1px black;
 }
 th, td {
