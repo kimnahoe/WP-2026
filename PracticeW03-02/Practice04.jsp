@@ -1,3 +1,4 @@
+<!--선언문 태그 안에 메소드 정의-->
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
 <!DOCTYPE html>
